@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/vaccination)
+[Project 1 Title](/vaccination )
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
